@@ -1,5 +1,3 @@
-#print function in python
-
 print('Hello World')
 print('This is a test script.')
 print(5+8)
@@ -9,10 +7,3 @@ print('India', 'USA', 'Canada', sep='-')
 print('India', 'USA', 'Canada', end=' ')
 print('are countries in the world.')
 print('Hello', 2563, 1827.87, True, [1,3,5,7], ('ant', 'bat', 'cat'), {'name': 'John', 'age': 30}, None)
-
-age = 28
-print(age)
-name = 'John'
-print(name)
-name = "alice"
-name
